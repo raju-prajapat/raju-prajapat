@@ -12,6 +12,10 @@ Electronics & Communication Engineering Student | VLSI | Embedded Systems | IoT
 
 ---
 
+<p align="center">
+  <img src="./raju-ram-circuit.png" width="850" alt="RAJU RAM Electronics Circuit">
+</p>
+
 ## 👨‍💻 About Me
 
 🎓 I'm an **Electronics & Communication Engineering (ECE)** student from India.
